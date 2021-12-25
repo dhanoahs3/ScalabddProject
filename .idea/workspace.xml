@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="606a6520-fd48-4603-b23c-109b83a12c08" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Scala Trait" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="20jBPF0QsKfybiObHLmPL64IO8m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="ScalaTest.LoginTest">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ScalaBddFramework" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="ScalaBddFramework" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="ScalaBddFramework" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.rediff.tests.login.LoginTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Scalabdd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.A user that logs in should land on the home page" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="ScalaBddFramework" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.rediff.tests.login.LoginTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Scalabdd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PortfolioTests" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="ScalaBddFramework" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.rediff.tests.portfolio.PortfolioTests" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Scalabdd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StocksTests" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="ScalaBddFramework" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.rediff.tests.stocks.StocksTests" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Scalabdd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StocksTests.A user should be able to add new stock to his portfolio" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="ScalaBddFramework" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.rediff.tests.stocks.StocksTests" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Scalabdd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.LoginTest" />
+        <item itemvalue="ScalaTest.PortfolioTests" />
+        <item itemvalue="ScalaTest.StocksTests" />
+        <item itemvalue="ScalaTest.LoginTest.A user that logs in should land on the home page" />
+        <item itemvalue="ScalaTest.StocksTests.A user should be able to add new stock to his portfolio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ScalaBddFramework" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scalabdd [file:/C:/Scalabdd/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ScalaBddFramework-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3273310089184" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3144404595" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../web-tests/web-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../web_tests_1/web-tests" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="606a6520-fd48-4603-b23c-109b83a12c08" name="Default Changelist" comment="" />
+      <created>1636548091224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636548091224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="142" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1636904121518">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="448" y="142" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1636904121518" />
+    <state x="445" y="76" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1636548556134">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="445" y="76" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1636548556134" />
+    <state x="440" y="304" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1636552022270">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="440" y="304" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1636552022270" />
+    <state x="519" y="253" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1636578744184">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="519" y="253" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1636578744184" />
+    <state width="1252" height="186" key="GridCell.Tab.0.bottom" timestamp="1638192570649">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="186" key="GridCell.Tab.0.bottom/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1638192570649" />
+    <state width="1252" height="186" key="GridCell.Tab.0.center" timestamp="1638192570648">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="186" key="GridCell.Tab.0.center/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1638192570648" />
+    <state width="1252" height="186" key="GridCell.Tab.0.left" timestamp="1638192570648">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="186" key="GridCell.Tab.0.left/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1638192570648" />
+    <state width="1252" height="186" key="GridCell.Tab.0.right" timestamp="1638192570649">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="186" key="GridCell.Tab.0.right/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1638192570649" />
+    <state x="171" y="100" width="1095" height="568" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1636828339519">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="171" y="100" width="1095" height="568" key="com.intellij.history.integration.ui.views.FileHistoryDialog/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1636828339519" />
+    <state x="427" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1640456261620">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="427" y="211" key="com.intellij.ide.util.TipDialog/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1640456261620" />
+    <state x="375" y="172" key="run.anything.popup" timestamp="1636598797273">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="375" y="172" key="run.anything.popup/71.0.1295.768/1366.0.1920.1040@71.0.1295.768" timestamp="1636598797273" />
+  </component>
+</project>

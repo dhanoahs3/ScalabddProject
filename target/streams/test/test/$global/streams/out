@@ -1,0 +1,12 @@
+[debug] Running TaskDef(com.rediff.tests.portfolio.PortfolioTests, org.scalatest.tools.Framework$$anon$1@530d7c7e, false, [SuiteSelector])
+[debug] Running TaskDef(com.rediff.tests.stocks.StocksTests, org.scalatest.tools.Framework$$anon$1@530d7c7e, false, [SuiteSelector])
+[debug] Running TaskDef(com.rediff.tests.login.LoginTest, org.scalatest.tools.Framework$$anon$1@530d7c7e, false, [SuiteSelector])
+[info] Run completed in 7 minutes, 27 seconds.
+[info] Total number of tests run: 6
+[info] Suites: completed 3, aborted 0
+[info] Tests: succeeded 6, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	com.rediff.tests.login.LoginTest
+[debug] 	com.rediff.tests.stocks.StocksTests
+[debug] 	com.rediff.tests.portfolio.PortfolioTests

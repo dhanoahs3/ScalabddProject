@@ -1,0 +1,9 @@
+[debug] Running TaskDef(com.rediff.tests.login.LoginTest, org.scalatest.tools.Framework$$anon$1@13feb626, false, [SuiteSelector])
+[info] Run completed in 49 seconds, 724 milliseconds.
+[info] Total number of tests run: 2
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 1, failed 1, canceled 0, ignored 0, pending 0
+[info] *** 1 TEST FAILED ***
+[error] Failed tests:
+[error] 	com.rediff.tests.login.LoginTest
+[error] (Test / testOnly) sbt.TestsFailedException: Tests unsuccessful

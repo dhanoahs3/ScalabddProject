@@ -1,0 +1,4 @@
+[warn] C:\Scalabdd\src\test\scala\com\rediff\tests\common\ExtentReports.scala:5:37: imported `ExtentReports' is permanently hidden by definition of object ExtentReports in package common
+[warn] import com.aventstack.extentreports.ExtentReports
+[warn]                                     ^
+[warn] one warning found

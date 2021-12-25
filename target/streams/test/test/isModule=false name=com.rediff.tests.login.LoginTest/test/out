@@ -1,0 +1,5 @@
+[info] LoginTest:
+[info]  A user that logs in 
+[info] - should land on the home page
+[info]  A user that logs in with wrong password
+[info] - should not be able to land on the home page

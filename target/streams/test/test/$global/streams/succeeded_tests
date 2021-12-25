@@ -1,0 +1,5 @@
+#Successful Tests
+#Mon Nov 15 09:12:53 EST 2021
+com.rediff.tests.stocks.StocksTests=1636985392965
+com.rediff.tests.login.LoginTest=1636985573086
+com.rediff.tests.portfolio.PortfolioTests=1636985243769
