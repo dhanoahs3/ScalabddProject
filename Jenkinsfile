@@ -6,7 +6,7 @@ pipeline {
         stage('Compile') {
             steps {
                 echo "Compiling..."
-                sh "C:/Scalabdd/sbt compile"
+                sh "C:\\Scalabdd\\sbt compile"
             }
         }
 
