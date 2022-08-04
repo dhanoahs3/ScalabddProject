@@ -13,7 +13,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo "Testing..."
-               sh "C:\Scalabdd\sbt test"
+               sh "C://Scalabdd//sbt test"
             }
         }
 
